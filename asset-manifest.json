@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/paradigma-capital/static/css/main.ab7136cd.chunk.css",
+    "main.js": "/paradigma-capital/static/js/main.e12076ce.chunk.js",
+    "main.js.map": "/paradigma-capital/static/js/main.e12076ce.chunk.js.map",
+    "runtime-main.js": "/paradigma-capital/static/js/runtime-main.fa125aa7.js",
+    "runtime-main.js.map": "/paradigma-capital/static/js/runtime-main.fa125aa7.js.map",
+    "static/js/2.0d06eba8.chunk.js": "/paradigma-capital/static/js/2.0d06eba8.chunk.js",
+    "static/js/2.0d06eba8.chunk.js.map": "/paradigma-capital/static/js/2.0d06eba8.chunk.js.map",
+    "static/js/3.732bb4ab.chunk.js": "/paradigma-capital/static/js/3.732bb4ab.chunk.js",
+    "static/js/3.732bb4ab.chunk.js.map": "/paradigma-capital/static/js/3.732bb4ab.chunk.js.map",
+    "index.html": "/paradigma-capital/index.html",
+    "static/css/main.ab7136cd.chunk.css.map": "/paradigma-capital/static/css/main.ab7136cd.chunk.css.map",
+    "static/js/2.0d06eba8.chunk.js.LICENSE.txt": "/paradigma-capital/static/js/2.0d06eba8.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/paradigma-capital/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fa125aa7.js",
+    "static/js/2.0d06eba8.chunk.js",
+    "static/css/main.ab7136cd.chunk.css",
+    "static/js/main.e12076ce.chunk.js"
+  ]
+}
