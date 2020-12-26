@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.js": "/paradigma-capital/static/js/main.793c72b1.chunk.js",
-    "main.js.map": "/paradigma-capital/static/js/main.793c72b1.chunk.js.map",
+    "main.js": "/paradigma-capital/static/js/main.7ca71e7a.chunk.js",
+    "main.js.map": "/paradigma-capital/static/js/main.7ca71e7a.chunk.js.map",
     "runtime-main.js": "/paradigma-capital/static/js/runtime-main.8ee8aae3.js",
     "runtime-main.js.map": "/paradigma-capital/static/js/runtime-main.8ee8aae3.js.map",
     "static/js/2.392e8044.chunk.js": "/paradigma-capital/static/js/2.392e8044.chunk.js",
@@ -12,12 +12,12 @@
     "static/js/2.392e8044.chunk.js.LICENSE.txt": "/paradigma-capital/static/js/2.392e8044.chunk.js.LICENSE.txt",
     "static/media/hugo.9f8a675b.jpeg": "/paradigma-capital/static/media/hugo.9f8a675b.jpeg",
     "static/media/jacopo.0388224e.jpeg": "/paradigma-capital/static/media/jacopo.0388224e.jpeg",
-    "static/media/mainbackground.e6ae1e50.jpg": "/paradigma-capital/static/media/mainbackground.e6ae1e50.jpg",
+    "static/media/mainbackground.40bb9a52.png": "/paradigma-capital/static/media/mainbackground.40bb9a52.png",
     "static/media/simon.84cc6188.jpeg": "/paradigma-capital/static/media/simon.84cc6188.jpeg"
   },
   "entrypoints": [
     "static/js/runtime-main.8ee8aae3.js",
     "static/js/2.392e8044.chunk.js",
-    "static/js/main.793c72b1.chunk.js"
+    "static/js/main.7ca71e7a.chunk.js"
   ]
 }
